@@ -1,0 +1,47 @@
+<html>
+    <title>Half-life 2 информация</title>
+    <body style="background-color:grey;color:white;font-size:20px">
+        <header>
+        <h1 style="color:white">Half-life 2 информация<img src="https://pngimg.com/uploads/Half-Life/small/Half-Life_PNG13.png" width="40px"></h1>
+        </header>
+        <main>
+        <h1 style="color:white">Half-Life 2</h1><img src="https://upload.wikimedia.org/wikipedia/en/2/25/Half-Life_2_cover.jpg"><p style="color:white">Коробка с изображением Гордона Фримена</p>
+    <p style="color:white">Разработчик: Valve</p>
+    <p style="color:white">Издатель: Valve</p>
+    <p style="color:white">Художник: Виктор Антонов</p>
+    <p style="color:white">Автор: Марк Лейдлоу</p>
+    <p style="color:white">Композитор: Келли Бейли</p>
+    <p style="color:white">Времени: Период полураспада</p>
+    <p style="color:white">Двигатель: Source</p>
+    <p style="color:white">Платформы: Windows Xbox Xbox360 PlayStation 3 Mac OS X Linux Android</p>
+    <p style="color:white">Выпуск: 16 ноября 2004 г.</p>
+    <p style="color:white">Жанр: Шутер от первого лица</p>
+    <p style="color:white">Режим: Одиночная игра</p>
+            
+        <p style="color:white"><h1 style="color:white">О игре</h1>Half-Life 2 — шутер от первого лица (FPS), выпущенный в 2004 году корпорацией Valve . Он был опубликован для Windows на цифровом дистрибьюторском сервисе Valve, Steam . Как и оригинальный Half-Life (1998), Half-Life 2 сочетает в себе стрельбу, головоломки и повествование, а также добавляет такие функции, как транспортные средства и игровой процесс, основанный на физике . Игрок управляет Гордоном Фрименом , который присоединяется к сопротивлению, чтобы освободить Землю от Альянса , межпланетной инопланетной империи.</p><img src="https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/HalfLife2_City17_TrainStationSquare.jpg/330px-HalfLife2_City17_TrainStationSquare.jpg">
+
+        <p style="color:white"><h1 style="color:white">Движок</h1>Half-Life 2 был создан с использованием игрового движка Source компании Valve , который разрабатывался одновременно. Разработка длилась пять лет и обошлась в 40  миллионов долларов США. Президент Valve Гейб Ньюэлл поставил перед своей командой цель переосмыслить жанр FPS. Они интегрировали физический движок Havok , который имитирует физику реального мира, чтобы усилить ощущение присутствия и создать новый игровой процесс. Они также разработали характеризацию с более подробными моделями персонажей и анимацией.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Source_engine_logo_and_wordmark.svg/980px-Source_engine_logo_and_wordmark.svg.png" width="300px">
+
+        <p style="color:white"><h1 style="color:white">Анонс</h1>Valve анонсировала Half-Life 2 на E3 2003 с датой релиза в сентябре того же года. Они не смогли уложиться в дату релиза, что привело к негативной реакции фанатов. В октябре незаконченный исходный код был опубликован в сети, что привело к еще большей негативной реакции и подрыву морального духа команды.</p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/E3_Logo.svg/227px-E3_Logo.svg.png">
+
+        <p style="color:white"><h1 style="color:white">Релиз</h1>Half-Life 2 была выпущена в Steam 16 ноября 2004 года. Она получила 39 наград «Игра года» и была названа одной из лучших игр, когда-либо созданных . Она была портирована на Xbox , Xbox 360 , PlayStation 3 , macOS и Linux . К 2011 году было продано 12 миллионов копий. За Half-Life 2 последовали бесплатный дополнительный уровень Lost Coast (2005) и эпизодические сиквелы Episode One (2006) и Episode Two (2007). В 2020 году, после отмены Episode Three и нескольких дальнейших проектов Half-Life , Valve выпустила приквел Half-Life: Alyx.</p><h1>16 Ноября 2004 года</h1>
+        <table style="border:3px solid black;border-collapse:collapse">
+            <tr>
+                <td style="border:3px solid black;">Игроков в игре</td>
+                <td style="border:3px solid black;">Жанр</td>
+                <td style="border:3px solid black;">Создатель Valve</td>
+            </tr>
+            <tr>
+                <td style="border:3px solid black;">Одиночная игра</td>
+                <td style="border:3px solid black;">Шутер от первого лица</td>
+                <td style="border:3px solid black;">Гейб Ньюэлл</td>
+            </tr>
+        </table>
+        </main>
+        <footer>
+            <a href="https://en.wikipedia.org/wiki/Half-Life_2">Wikipedia</a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Wikipedia-logo-v2.svg/330px-Wikipedia-logo-v2.svg.png" width="40px">
+        </footer>
+        <p style="font-size:15px">Сделано Григорий Бондар</p>
+        <p style="font-size:15px">сделал я этот сайт в школе Logika</p>
+    </body>
+</html>
